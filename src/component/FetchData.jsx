@@ -113,7 +113,7 @@ function FetchData() {
                     ) : (
                         <div>
                             <p className="loading">No data available.</p>
-                            <pre style={{color:"white"}}>{JSON.stringify(data,null,2)}</pre>
+                            {/* <pre style={{color:"white"}}>{JSON.stringify(data,null,2)}</pre> */}
                         </div>
                     )}
                 </ul>
