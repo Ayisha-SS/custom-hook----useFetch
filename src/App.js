@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import { Component } from 'react';
+import FetchData from './component/FetchData';
 
 function App() {
   return (
     <div>
-      <Component/>
+     <FetchData/>
     </div>
   );
 }
