@@ -38,5 +38,9 @@
 }
 .title{
   color: #fff;
+  font-size: 20px;
+}
+.overview{
+  color: #fff;
   font-size: 16px;
 }

@@ -105,6 +105,7 @@ function FetchData() {
                                             />
                                         </div>
                                         <span className="title">{item.title}</span>
+                                        <span className="overview">{item.overview}</span>
                                     </div>
                                 </li>
                             ))}
